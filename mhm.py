@@ -24,7 +24,7 @@ b = '\033[31m'
 h = '\033[32m'
 m = '\033[00m'
 
-def aox(script,target_file="listsite.txt"):
+def aox(script,target_file="list.txt"):
    op = open(script,"r").read()
    with open(target_file, "r") as target:
       target = target.readlines()
