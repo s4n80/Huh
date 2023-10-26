@@ -16,7 +16,7 @@ banner = """
       | |       |             | |-' `-^-'           
       |         |             |     ||  |           
       \         /             \     '   /           
-       |       |               |       |       private tool soo dont use without permission   
+       |       |               |       |       private tool soo dont use without permission  s4n
        |       |               |       |    
        """
 
